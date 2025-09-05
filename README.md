@@ -1,6 +1,6 @@
 # Forest-fires-multivariate-regression
 ----------
-
+ML introduction course SPBU AM-CP
 ## Introduction
 In this project we are aiming to predict the burning area using multiple regression types:
 1. Linear regression
